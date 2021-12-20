@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MY PROJECT</string>
+    <string name="todo" />
+    <string name="area_calculator" />
+</resources>
